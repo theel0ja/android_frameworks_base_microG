@@ -11,17 +11,17 @@ __Credits to mar-v-in and others for the patches__
 
 What each patch does:
 
-microG-support-KK-LP.patch - Support for fake signatures for Kitkat-Lollipop
+* `microG-support-KK-LP.patch` - Support for fake signatures for Kitkat-Lollipop
 
-microG-support-MM.patch - Support for fake signatures for Marshmallow
+* `microG-support-MM.patch` - Support for fake signatures for Marshmallow
 
-microG-support-N.patch - Support for fake singatures for Nougat
+* `microG-support-N.patch` - Support for fake singatures for Nougat
 
-microG-support-O.patch - Support for fake singatures for Oreo
+* `microG-support-O.patch` - Support for fake singatures for Oreo
 
-microG-support-P.patch - Support for fake singatures for Pie
+* `microG-support-P.patch` - Support for fake singatures for Pie
 
-Location-providers.patch - Allow location providers also outside of /system
+* `Location-providers.patch` - Allow location providers also outside of `/system`
 
 ## How to apply a patch:
 
